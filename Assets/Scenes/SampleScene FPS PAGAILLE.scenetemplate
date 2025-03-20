@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SampleScene FPS PAGAILLE
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 99c9720ab356a0642a771bea13969a05, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 919132149155446097, guid: a032cf458edd3094cac6918788b134fc, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 919132149155446097, guid: 13d9946303f30094ebf85e94eff67e92, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 919132149155446097, guid: f3f919c37a86e8c498933749926b382b, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 919132149155446097, guid: e56b801599e4db2459a3b84af83fa76c, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 919132149155446097, guid: aae2c48eaa60ebc468048bc382f7765d, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 919132149155446097, guid: c269a698d9eae4c4ab6cfae1c70276a5, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: fa09f9bf8e60c6142b8b344220aa8587, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 13400000, guid: 5dd2a1a91e42e2b499b45c111f3397cd, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 919132149155446097, guid: 7896183d96cb640408af9030e58d3cac, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 90ab00c45c296024a908ba2792bd28c4, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: aee7907660676694f90fc05c7ead96bf, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: a9c1c39868c27c341a73dc0c9a28ef0f, type: 3}
+    instantiationMode: 1
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0

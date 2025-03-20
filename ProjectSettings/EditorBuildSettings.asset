@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/sounsdsystem 100bpm.unity
+    guid: 5b0f150bb7016b34aa6627887522b420
+  - enabled: 0
+    path: Assets/Scenes/pagaille banquet.unity
+    guid: 85aa0053371864f4b8d7852287c0c882
+  - enabled: 0
+    path: Assets/Scenes/Bowling Champagne.unity
+    guid: e3fd40fb6cb93c24fbd65706c97c3cd3
+  - enabled: 1
+    path: Assets/Scenes/TEUF.unity
+    guid: 09a160486f589d545883f5633ef49570
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
